@@ -1,4 +1,3 @@
-# Walid98ahmed
 
 # Hey there! I'm Walid.
 
