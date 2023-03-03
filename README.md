@@ -24,7 +24,7 @@ A book about system design in which the writer show simplified process of design
 
 # 🤝🏻 Connect with Me
 
-LinkedIn
+https://www.linkedin.com/in/walidsayed9811/
 
 Email
 
