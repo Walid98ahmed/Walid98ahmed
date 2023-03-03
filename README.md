@@ -1,11 +1,12 @@
 # Walid98ahmed
 
-Hey there! I'm Walid.
+# Hey there! I'm Walid.
 
-👨🏻‍💻 About Me
+# 👨🏻‍💻 About Me
+
 🤔   Exploring new technologies and developing software solutions.
 
-🛠 Tech Stack
+# 🛠 Tech Stack
 
 💻   Node.Js | Express | NestJS | Socket.IO | Docker | Pm2 | Nginx 
 
@@ -21,7 +22,9 @@ Node.js Design Patterns (Book)
 A Node.js book about design patterns, writing modules, asynchronous programming, Scalability, Architectural Patterns & Advanced Node.js topics
 System Design Interview (Book)
 A book about system design in which the writer show simplified process of designing multiple systems
-🤝🏻 Connect with Me
+
+# 🤝🏻 Connect with Me
+
 LinkedIn
 Email
 Twitter
