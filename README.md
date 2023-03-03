@@ -3,20 +3,23 @@
 
 # 👨🏻‍💻 About Me
 
-🤔   Exploring new technologies and developing software solutions.
+🤔 A Life-long learner and information seeker with strong research skills, 
+I’m aiming to be a good Software Engineer. I specialize in building Backend Node Js
+applications. Using software to develop the business and increase profits is one of the 
+fascinating things I really enjoy.
+
 
 # 🛠 Tech Stack
 
-💻   Node.Js | Express | NestJS | Socket.IO | Docker | Pm2 | Nginx 
+💻   Node.Js | Express | NestJS | Socket.IO | Docker | Pm2 | Nginx | Python
 
 🛢   SQL | Mysql | Postgresql  | MongoDB/Mongoose | Redis | Firebase
 
-🔧   Unit/Integration Testing (Jest/Supertest) | OOP | Integration Patterns | Design Patterns | Documentation (JsDoc/Swagger/Postman)
-🌐   HTML5 | CSS3 | JavaScript/ES6+ | Typescript | Pug | EJS | SASS | Vue | Vuex | Nuxt | Ionic
-🖥   Bootstrap | Vuetify | TailwindCSS
-📖 Important Courses/Books
-M001: MongoDB Intro Course (MongoDB University)
-M201: MongoDB Performance Course (MongoDB University)
+🔧    OOP | Integration Patterns | Design Patterns | Documentation (JsDoc/Swagger/Postman)
+🌐   HTML5 | JavaScript/ES6+ | Typescript 
+
+# 📖 Important Courses/Books
+
 Node.js Design Patterns (Book)
 A Node.js book about design patterns, writing modules, asynchronous programming, Scalability, Architectural Patterns & Advanced Node.js topics
 System Design Interview (Book)
