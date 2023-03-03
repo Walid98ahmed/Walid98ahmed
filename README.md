@@ -26,7 +26,7 @@ A book about system design in which the writer show simplified process of design
 
 [LinkedIn](https://www.linkedin.com/in/walidsayed9811/)
 
-[Email](walid9811@gmail.com)
+[Email](walidsayed9811@gmail.com)
 
 [Twitter](https://twitter.com/1811welloo)
 
