@@ -13,7 +13,7 @@ fascinating things I really enjoy.
 
 💻   Node.Js | Express | NestJS | Socket.IO | Docker | Pm2 | Nginx | Python
 
-🛢   SQL | Mysql | Postgresql  | MongoDB/Mongoose | Redis | Firebase
+🛢   SQL | Mysql | Postgresql  | MongoDB/Mongoose | Redis | Firebase | Elasticsearch, Kibana
 
 🔧    OOP | Integration Patterns | Design Patterns | Documentation (JsDoc/Swagger/Postman)
 🌐   HTML5 | JavaScript/ES6+ | Typescript 
